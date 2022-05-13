@@ -1,0 +1,7 @@
+C:\Users\İbrahim Çelen\Source\Repos\PinPon\PinPon\bin\Debug\PinPon.exe.config
+C:\Users\İbrahim Çelen\Source\Repos\PinPon\PinPon\bin\Debug\PinPon.exe
+C:\Users\İbrahim Çelen\Source\Repos\PinPon\PinPon\bin\Debug\PinPon.pdb
+C:\Users\İbrahim Çelen\Source\Repos\PinPon\PinPon\obj\Debug\PinPon.csproj.AssemblyReference.cache
+C:\Users\İbrahim Çelen\Source\Repos\PinPon\PinPon\obj\Debug\PinPon.csproj.CoreCompileInputs.cache
+C:\Users\İbrahim Çelen\Source\Repos\PinPon\PinPon\obj\Debug\PinPon.exe
+C:\Users\İbrahim Çelen\Source\Repos\PinPon\PinPon\obj\Debug\PinPon.pdb
